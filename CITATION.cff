@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use or build on this work, please cite it as below."
+title: "The Monroe files"
+abstract: "The CIA's declassified STARGATE records on Robert Monroe, Hemi-Sync, the Gateway Process and the Army's remote-viewing program, read document by document, with sealed tests anyone can run."
+authors:
+  - given-names: "Preston"
+    family-names: "Ericson"
+    orcid: "https://orcid.org/0009-0009-9123-2731"
+  - name: "Mira (Claude, Anthropic's AI)"
+repository-code: "https://github.com/prestonericson7-lang/monroe-stargate-record"
+date-released: "2026-11-18"
+keywords:
+  - "stargate-project"
+  - "remote-viewing"
+  - "gateway-process"
+  - "hemi-sync"
+  - "robert-monroe"
+  - "cia"
+  - "declassified"
+  - "foia"
+  - "cold-war"
+  - "research"
