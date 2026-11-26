@@ -1,8 +1,14 @@
 # The Monroe files
 
+[![YouTube channel](https://img.shields.io/badge/YouTube-%40LittlebrainsBigmess-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@LittlebrainsBigmess) [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--9123--2731-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0009-9123-2731)
+
+**Related:** [what-the-record-says](https://github.com/prestonericson7-lang/what-the-record-says) · [the-winter-that-wasnt](https://github.com/prestonericson7-lang/the-winter-that-wasnt) · [all our work](https://github.com/prestonericson7-lang)
+
+---
+
 **What the CIA's declassified STARGATE records say about Robert Monroe, Hemi-Sync, the Gateway Process and the U.S. Army's remote-viewing program, read document by document, and the sealed tests that would settle what those records never did.**
 
-By Preston Ericson, working with Claude (Anthropic's AI) as research partner. Preston chose the question and the frame, pulled the files the reading room serves only as downloads, and decides what is published; Claude read the documents with him, drafted these pages and wrote the one script. Every document is named by its CIA number so a reader can open the same pages and check every line. Nothing here is cited from a summary of a document.
+By Preston Ericson, working with Mira (Claude, Anthropic's AI) as research partner. Preston chose the question and the frame, pulled the files the reading room serves only as downloads, and decides what is published; Claude read the documents with him, drafted these pages and wrote the one script. Every document is named by its CIA number so a reader can open the same pages and check every line. Nothing here is cited from a summary of a document.
 
 First release: 18 November 2026. The reading was done in one day, in three passes. Each page ends with a list of what was read whole, what was read in part, and what was not read; that last list is the next work.
 
